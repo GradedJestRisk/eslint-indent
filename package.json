@@ -1,0 +1,23 @@
+{
+  "name": "eslint-indent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GradedJestRisk/eslint-indent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GradedJestRisk/eslint-indent/issues"
+  },
+  "homepage": "https://github.com/GradedJestRisk/eslint-indent#readme",
+  "devDependencies": {
+    "eslint": "^7.9.0"
+  }
+}
